@@ -1,0 +1,35 @@
+{
+  "name": "Testing Collection #1",
+  "description": "this is testing NFT-Collection",
+  "image": "ipfs://QmeDsFZqKCzgRxuLbhCTaYZk9UzbfL9inMvPZRgqq7JASy/1.png",
+  "dna": "450ce289250570514a4ef5ad43c28bbc5a38cda9",
+  "edition": 1,
+  "date": 1660482444911,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
