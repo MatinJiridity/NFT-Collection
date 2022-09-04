@@ -61,6 +61,16 @@ Only the owner can call it. The owner can mint NFTs for every address.
 | `_receiver` | `address` | Address of receiver |
 
 
+#### withdraw
+```solidity
+function withdraw() public onlyOwner 
+```
+Withdraw costs paid
+
+Only the owner can withdraw from smart contract.
+
+
+
 
 
 
