@@ -28,7 +28,7 @@ Everybody by calling this function if the caller is not the owner and the contra
 
 #### mintFounders
 ```solidity
-function mint(
+function mintFounders(
     uint256 _mintAmount
 ) public  
 ```
