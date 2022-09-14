@@ -30,7 +30,7 @@ Everybody by calling this function if the caller is not the owner and the contra
 ```solidity
 function mint(
     uint256 _mintAmount
-) public  
+) public onlyWiteListed
 ```
 Private mint
 
